@@ -1,0 +1,7 @@
+# Custom
+/ref
+/build
+/tests
+
+.vscode
+notes.md
