@@ -1,8 +1,8 @@
 import os
 import shutil
 
-dev_addon_dir = "./add_dz_visualiser"
-blender_addon_dir = "./build/blender-2.78c-windows64/2.78/scripts/addons/add_dz-visualiser"
+dev_addon_dir = "./add_dz_visualizer"
+blender_addon_dir = "./build/blender-2.78c-windows64/2.78/scripts/addons/add_dz-visualizer"
 
 # Go through the source directory
 # create any directories that do not already exist in destination directory, 
