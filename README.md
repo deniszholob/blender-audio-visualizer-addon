@@ -10,6 +10,7 @@ Official Website: [http://www.deniszholob.com/software/visualizer-addon/](http:/
 ## Support Me
 [![button](https://c5.patreon.com/external/logo/downloads_wordmark_white_on_coral.png)](https://www.patreon.com/deniszholob)
 
+# Guide
 ## Install Addon
 * Option A (buildscript.py)
     * In buildscript.py, edit the blender_addon_dir variable as needed
@@ -40,5 +41,5 @@ Notes:
 * Large values for rows and columns in the grid generator will also lag, use with caution.
 * Generally: smaller grids and songs = faster
 
-## References:
+# References:
 [https://cgcookie.com/archive/building-an-audio-visualizer-in-python/](https://cgcookie.com/archive/building-an-audio-visualizer-in-python/)
