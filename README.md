@@ -7,6 +7,9 @@ Official Website: [http://www.deniszholob.com/software/visualizer-addon/](http:/
 
 [![Audio Visualizer](http://deniszholob.com/static/website/images/software/audio-visualizer/audio-vis-product-render-cutout.png)](http://www.deniszholob.com/software/visualizer-addon/)
 
+## Support Me
+[![button](https://c5.patreon.com/external/logo/downloads_wordmark_white_on_coral.png)](https://www.patreon.com/deniszholob)
+
 ## Install Addon
 * Option A (buildscript.py)
     * In buildscript.py, edit the blender_addon_dir variable as needed
